@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codespaces-react/static/css/main.66f4139f.css",
+    "main.js": "/codespaces-react/static/js/main.f79d42f1.js",
+    "static/js/496.0320d045.chunk.js": "/codespaces-react/static/js/496.0320d045.chunk.js",
+    "index.html": "/codespaces-react/index.html",
+    "main.66f4139f.css.map": "/codespaces-react/static/css/main.66f4139f.css.map",
+    "main.f79d42f1.js.map": "/codespaces-react/static/js/main.f79d42f1.js.map",
+    "496.0320d045.chunk.js.map": "/codespaces-react/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f4139f.css",
+    "static/js/main.f79d42f1.js"
+  ]
+}
